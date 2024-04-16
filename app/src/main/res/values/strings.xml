@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiPractice</string>
+    <string name="title_activity_screen_recepe">ScreenRecepe</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
